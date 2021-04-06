@@ -1,4 +1,6 @@
 # Deep-Learning_RNN_LSTM-Model_-Python-Tenserflow-Keras
+## Predict stock prices using RNN_LSTM model
+
 
 In this project we are going to build a Recurrent Neural Network (RNN) model based on LSTM layers. The model will allow us to predict the evolution of cryptocurrencies stock prices 3 min in the future
 
